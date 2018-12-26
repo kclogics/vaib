@@ -1,0 +1,53 @@
+<style>
+
+#image
+{
+	height: auto;
+	width:  auto;
+	text-align: inherit; 
+	border: 3px solid #22DDDD;
+	border-radius: 60%;
+}
+
+#tribute-link
+{
+text-align:center;
+}
+#lifestory
+{
+	font-family:sans-serif;
+	text-align:justify;
+	padding: 20px;
+}
+
+html{
+
+background-color:black;
+
+}
+
+#main{
+margin: 10px;
+padding: 10px;
+background-color:#D3D3D3;
+text-align: center;
+}
+
+#title
+{
+	TEXT-ALIGN:CENTER;
+	color: #0062FF;
+	background-color: white;
+}
+#title:hover
+{
+color: red;
+}
+#tribute-info{
+	margin:30px;
+	border: 10px;
+	text-align:inherit;
+	font-size: 20x;
+}
+
+
